@@ -11,4 +11,4 @@ The bare CDN path is ```https://raw.githack.com/dbpsmath/cdn/main/``` You have t
 https://raw.githack.com/dbpsmath/cdn/main/2048/index.html
 ```
 Pretty simple. If you use the CDN please star this repository
-Don't give me credit, give 3kh0 credit (this is mostly games from him). His CDN with more games is [here](https://github.com/3kh0/3kh0-Assets)
+Don't give me credit, give 3kh0 credit (this is mostly games from his game ripping adventures). His CDN with more games is [here](https://github.com/3kh0/3kh0-Assets)
