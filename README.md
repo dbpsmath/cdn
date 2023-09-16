@@ -1,6 +1,5 @@
 # DBPsMath CDN
 
-As 3kh0 once said, "skidding gets you nothing"
 
 # How to use
 This CDN uses githack, so all you need to do is change the folder/file path.
