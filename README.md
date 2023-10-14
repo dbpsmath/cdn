@@ -29,5 +29,15 @@ So, if you want to make a page on your website using the thing from our CDN, the
     </body>
 </html>
 ```
+Or you could use:
+```
+<html>
+    <head>
+    </head>
+    <body>
+        <iframe src="put in the url" style="margin:0; height:100%; width:100% border:none;">Your browser doesn't support iframes.</iframe>
+    </body>
+</html>
+```
 Pretty simple. If you use the CDN please star this repository.
 Don't give me credit, give 3kh0 credit (this is mostly games from his game ripping adventures). His CDN with more games is [here](https://github.com/3kh0/3kh0-Assets)
