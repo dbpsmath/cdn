@@ -1,0 +1,1 @@
+2048 is a popular single-player puzzle game that involves sliding numbered tiles on a 4x4 grid. The goal of the game is to combine tiles with the same number to create a tile with the value of 2048. The game can be played using arrow keys or swipe gestures on mobile devices 1.

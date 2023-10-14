@@ -1,0 +1,1 @@
+Try 99 Balls, an innovate game that mixes gameplay from Bubble Shooter and Breakout! In this game, you need to destroy numbered balls before they reach the bottom of the screen. Each ball contains a number which indicates the number of hits it requires to be destroyed.
