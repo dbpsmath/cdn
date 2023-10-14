@@ -7,7 +7,7 @@ This CDN uses githack, so all you need to do is change the folder/file path.
 The bare CDN path is ```https://raw.githack.com/dbpsmath/cdn/main/``` You have to add in the path, so for 2048 it would be
 
 ```
-https://raw.githack.com/dbpsmath/cdn/main/2048/index.html
+https://raw.githack.com/dbpsmath/cdn/main/assets/gxmes/2048/index.html
 ```
 So, if you want to make a page on your website using the thing from our CDN, then just take that URL, and put it in this code
 ```
